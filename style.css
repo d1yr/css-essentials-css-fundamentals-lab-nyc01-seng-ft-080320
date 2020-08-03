@@ -20,5 +20,7 @@ img {
 figcaption {
   font-size: 10px;
   text-align: center;
-  
+  }
+#featured-property {
+  width: 800px;
 }
