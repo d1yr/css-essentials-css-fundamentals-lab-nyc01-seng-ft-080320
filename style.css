@@ -28,3 +28,8 @@ figcaption {
   display: block;
   float: left;
 }
+div {
+  background-color: blue;
+  width: 25%;
+  text-align: center;
+}
