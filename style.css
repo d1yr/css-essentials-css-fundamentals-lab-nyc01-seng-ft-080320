@@ -11,7 +11,9 @@ a {
   padding: 10px;
   background: yellow;
 }
-
+img {
+  align-content: center;
+}
 figcaption {
   font-size: 10px;
   text-align: center;
