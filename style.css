@@ -11,3 +11,8 @@ a {
   padding: 10px;
   background: yellow;
 }
+
+figcaption {
+  text-transform: 6px;
+  
+}
