@@ -13,6 +13,7 @@ a {
 }
 
 figcaption {
-  text-transform: 6px;
+  font-size: 6px;
+  text-align: center;
   
 }
