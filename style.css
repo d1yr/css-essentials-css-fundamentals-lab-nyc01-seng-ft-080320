@@ -26,6 +26,7 @@ figcaption {
 }
 #details {
   display: block;
+  align-content: center;
 }
 div {
   background-color: blue;
